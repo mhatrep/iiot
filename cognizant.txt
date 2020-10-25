@@ -1,0 +1,11 @@
+Connecting Industrial Equipment 
+­ Transforming manufacturing machinery into connected assets and systems for new data-driven services, predictive maintenance, and customer value.
+
+Optimizing Industrial Operations 
+­ Automating manufacturing, supply chain, and energy operations while modernizing legacy controls, human machine interface, and historians with a more intelligent edge, including analytics, AI, and secure cloud connectivity.
+
+Integrating Enterprise Data 
+­ Improving data visibility and operational insights to deliver better performance across multi-site machinery, Enterprise Resource Planning, and Customer Relationship Management systems, as well as complex business workflow integrations.
+
+Leveraging Proprietary Accelerators for IIoT Deployments 
+­ Increasing the time-to-value of industrial data with Springboard Cloud Services, connecting equipment to the cloud faster with Gearbox Edge Suite, and managing fleets at scale with GearBox Device Manager.
