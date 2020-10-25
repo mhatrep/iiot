@@ -16,3 +16,13 @@ Spending:
 -- Mobile apps and devices
 -- Robots
 
+Smart workflows
+---------------
+-- Demand management and forecasting
+-- Inventory and network optimization
+-- Risk management and process control
+-- Product quality monitoring and prediction of failures
+-- Networked buildings and infrastructure
+-- Warranty and services liability prediction 
+-- Performance of assets, facilities, and energy
+
