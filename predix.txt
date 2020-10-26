@@ -1,0 +1,3 @@
+Predix helps you develop, deploy, and operate industrial apps at the edge and in the cloud. Securely connect machines, data, and analytics to improve operational efficiency.
+
+https://www.predix.io/
