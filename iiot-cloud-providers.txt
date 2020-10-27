@@ -3,3 +3,9 @@ https://www.ibm.com/industries/industrial/industry-4-0
 Internet of Things and the cloud: A key component of Industry 4.0 is the Internet of Things that is characterized by connected devices. Not only does this help internal operations, but through the use of the cloud environment where data is stored, equipment and operations can be optimized by leveraging the insights of others using the same equipment or to allow smaller enterprises access to technology they wouldn’t be able to on their own. (Bernard Marr)
 
 https://www.microchip.com/design-centers/internet-of-things/google-cloud-iot/wi-fi-enabled-boards
+
+
+https://www.amqp.org.
+https://www.rabbitmq.com/.
+http://activemq.apache.org.
+
