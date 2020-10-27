@@ -13,3 +13,5 @@ http://www.w3.org/Submission/wadl/.
 https://mqtt.org
 http://inst.eecs.berkeley.edu/\HCode{<SPitie/>}cs150/Documents/CC2420.pdf.
 https://wikidevi.com/wiki/Atheros_AR9271.
+
+https://www.urbiotica.com/en/fastprk-acquisition/
