@@ -1,3 +1,5 @@
+https://os.mbed.com/
+====================
 https://www.freertos.org/
 https://www.ti.com/tool/TI-RTOS-MCU
 https://www.riot-os.org/
@@ -14,9 +16,13 @@ https://github.com/tinyos/tinyos-main
 https://developer.android.com/things/get-started
 https://www.balena.io/os/
 
-
 https://www.micrium.com/rtos/kernels/
 https://www.particle.io/device-os/
 http://www.riot-os.org/#home
 https://siemens.mindsphere.io/en/about/for-users
 https://ubuntu.com/core
+
+https://zephyrproject.org/
+https://fuchsia.dev/fuchsia-src/get-started
+https://ubuntu.com/download/raspberry-pi-core
+https://fkromer.github.io/awesome-embedded-linux/
