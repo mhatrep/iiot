@@ -8,4 +8,10 @@ https://www.tizen.org/about
 https://www.windriver.com/products/vxworks/#VxWorks
 https://mynewt.apache.org/about/
 
+https://www.contiki-ng.org/
+https://www.mentor.com/embedded-software/nucleus/
+https://github.com/tinyos/tinyos-main
+https://developer.android.com/things/get-started
+https://www.balena.io/os/
+
 
