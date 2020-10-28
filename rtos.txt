@@ -1,0 +1,3 @@
+https://www.freertos.org/
+https://www.ti.com/tool/TI-RTOS-MCU
+https://www.riot-os.org/
