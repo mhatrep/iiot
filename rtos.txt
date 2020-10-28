@@ -1,3 +1,11 @@
 https://www.freertos.org/
 https://www.ti.com/tool/TI-RTOS-MCU
 https://www.riot-os.org/
+
+https://www.microsoft.com/en-us/windowsforbusiness/windows-iot
+https://aws.amazon.com/freertos/
+https://www.tizen.org/about
+https://www.windriver.com/products/vxworks/#VxWorks
+https://mynewt.apache.org/about/
+
+
