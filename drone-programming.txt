@@ -1,0 +1,6 @@
+1. ArduPilot (Open source software for drones)
+2. MAVLink (Open source middleware)
+3. MAVProxy (Command line version of a ground control station)
+4. QGroundControl (Ground Control Station)
+5. SITL (Simulated Drone we can test our code on)
+6. Python Dronekit (Control ardupilot or px4 drones in python script)
