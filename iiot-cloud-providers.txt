@@ -17,3 +17,5 @@ https://wikidevi.com/wiki/Atheros_AR9271.
 https://www.urbiotica.com/en/fastprk-acquisition/
 https://www.tado.com/all-en/
 https://emoncms.org/
+
+https://thingspeak.com/
