@@ -20,3 +20,4 @@ https://emoncms.org/
 
 https://thingspeak.com/
 https://blynk.io/en/getting-started
+https://www.smashingmagazine.com/2017/04/prototype-iot-experiences-building-hardware-part-1/
