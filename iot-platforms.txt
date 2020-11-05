@@ -1,7 +1,10 @@
 https://iot.eclipse.org/projects/
-https://openremote.io/
+https://openremote.io/ ****
 https://nodered.org/
 https://thingsboard.io/
 https://www.kaaproject.org/
 http://iot-dsa.org/
 https://thinger.io/
+https://devicehive.com/
+https://thingspeak.com/
+https://www.mainflux.com/
