@@ -1,1 +1,4 @@
 https://iot.eclipse.org/projects/
+https://openremote.io/
+https://nodered.org/
+https://thingsboard.io/
