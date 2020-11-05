@@ -2,3 +2,6 @@ https://iot.eclipse.org/projects/
 https://openremote.io/
 https://nodered.org/
 https://thingsboard.io/
+https://www.kaaproject.org/
+http://iot-dsa.org/
+https://thinger.io/
