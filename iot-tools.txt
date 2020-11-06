@@ -6,3 +6,6 @@ https://www.zettajs.org/
 npm install zetta -g
 ----------------------------------------------
 https://www.katacoda.com/#
+----------------------------------------------------
+https://bootswatch.com/
+https://www.bootstrapcdn.com/bootswatch/
