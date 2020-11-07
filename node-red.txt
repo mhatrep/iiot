@@ -2,3 +2,14 @@ https://nodered.org
 
 npm install -g --unsafe-perm node-red
 $ node-red
+
+
+----------------------------------------------------
+
+Command Line Pallete Module Install
+
+C:\Users\mhatr
+$ cd .node-red
+
+ C:\Users\mhatr\.node-red
+$ npm install node-red-node-pi-gpio
