@@ -13,3 +13,7 @@ $ cd .node-red
 
  C:\Users\mhatr\.node-red
 $ npm install node-red-node-pi-gpio
+
+----------------------------------------------------
+
+https://nodered.org/docs/faq/interacting-with-pi-gpio
