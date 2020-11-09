@@ -9,3 +9,6 @@ https://www.katacoda.com/#
 ----------------------------------------------------
 https://bootswatch.com/
 https://www.bootstrapcdn.com/bootswatch/
+----------------------------------------------------
+https://fritzing.org/
+
