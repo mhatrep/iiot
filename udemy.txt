@@ -1,1 +1,3 @@
 https://www.udemy.com/course/microcontroller-interface-with-computer-via-serial-port/learn/lecture/6681496?start=0#overview
+https://www.udemy.com/course/fun-easy-embedded-microcontroller-communication-protocols/learn/lecture/5642886?start=0#overview
+https://www.udemy.com/course/draft/618056/learn/lecture/3660842?start=0#overview
