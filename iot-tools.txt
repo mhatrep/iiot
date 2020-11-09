@@ -1,4 +1,6 @@
 $ npm install -g iothub-explorer
+$ npm install cylon cylon-firmata cylon-gpio cylon-i2c
+
 https://packetsender.com/download
 https://www.pibakery.org/
 ----------------------------------------------
