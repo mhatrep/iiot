@@ -8,3 +8,25 @@ https://thinger.io/
 https://devicehive.com/
 https://thingspeak.com/
 https://www.mainflux.com/
+
+Some of the popular IoT frameworks include the following:
+----------------------------------------------------
+Eclipse Kura ( https://www.eclipse.org/kura/ )
+The Physical Web ( https://google.github.io/physical-web/ )
+IBM Bluemix (now IBM Cloud: https://www.ibm.com/cloud/ )
+Lelylan ( http://www.lelylan.com/ )
+Thing Speak ( https://thingspeak.com/ )
+Bug Labs ( https://buglabs.net/ )
+The thing system ( http://thethingsystem.com/ )
+Open Remote ( http://www.openremote.com/ )
+OpenHAB ( https://www.openhab.org/ )
+Eclipse IoT ( https://iot.eclipse.org/ )
+Node-Red ( https://nodered.org/ )
+Flogo ( https://www.flogo.io/ )
+Kaa IoT ( https://www.kaaproject.org/ )
+Macchina.io ( https://macchina.io/ )
+Zetta ( http://www.zettajs.org/ )
+GE Predix ( https://www.ge.com/digital/predix-platform-foundation-digital-industrial-applications )
+DeviceHive ( https://devicehive.com/ )
+Distributed Services Architecture ( http://iot-dsa.org/ )
+Open Connectivity Foundation ( https://openconnectivity.org/ )
