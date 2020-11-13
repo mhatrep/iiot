@@ -4,3 +4,4 @@ gcloud beta pubsub subscriptions pull --auto-ack MySub
 
 ----------------------------------------------------
 
+gcloud pubsub subscriptions pull device-data-sub --auto-ack --limit=10
