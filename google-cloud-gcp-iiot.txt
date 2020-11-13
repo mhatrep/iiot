@@ -1,0 +1,3 @@
+gcloud auth list
+gcloud config list project
+gcloud beta pubsub subscriptions pull --auto-ack MySub
