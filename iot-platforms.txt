@@ -8,6 +8,7 @@ https://thinger.io/
 https://devicehive.com/
 https://thingspeak.com/
 https://www.mainflux.com/
+https://blynk.io/
 
 Some of the popular IoT frameworks include the following:
 ----------------------------------------------------
