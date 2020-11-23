@@ -17,3 +17,9 @@ $ npm install node-red-node-pi-gpio
 ----------------------------------------------------
 
 https://nodered.org/docs/faq/interacting-with-pi-gpio
+----------------------------------------------
+Call API
+--------
+https://www.youtube.com/watch?v=9PffwMa_ITE
+Set headers for request : https://cookbook.nodered.org/http/set-request-header
+
