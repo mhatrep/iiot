@@ -16,6 +16,10 @@ https://nodered.org/docs/faq/interacting-with-pi-gpio
 Node Red Cookbook
 https://cookbook.nodered.org/
 
+YoutTube Channels
+=================
+https://www.youtube.com/c/stevecope/videos
+
 
 Call API
 --------
