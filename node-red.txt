@@ -15,6 +15,7 @@ https://nodered.org/docs/faq/interacting-with-pi-gpio
 ----------------------------------------------
 Node Red Cookbook
 https://cookbook.nodered.org/
+http://www.steves-internet-guide.com/
 
 YoutTube Channels
 =================
