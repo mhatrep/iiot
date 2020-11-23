@@ -2,10 +2,7 @@ https://nodered.org
 
 npm install -g --unsafe-perm node-red
 $ node-red
-
-
 ----------------------------------------------------
-
 Command Line Pallete Module Install
 
 C:\Users\mhatr
@@ -13,11 +10,13 @@ $ cd .node-red
 
  C:\Users\mhatr\.node-red
 $ npm install node-red-node-pi-gpio
-
 ----------------------------------------------------
-
 https://nodered.org/docs/faq/interacting-with-pi-gpio
 ----------------------------------------------
+Node Red Cookbook
+https://cookbook.nodered.org/
+
+
 Call API
 --------
 https://www.youtube.com/watch?v=9PffwMa_ITE
