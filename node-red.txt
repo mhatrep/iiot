@@ -27,3 +27,14 @@ Call API
 https://www.youtube.com/watch?v=9PffwMa_ITE
 Set headers for request : https://cookbook.nodered.org/http/set-request-header
 
+----------------------------------------------
+Node Red Hosted GET API
+
+[{"id":"667d2598.beb4ec","type":"debug","z":"e7ba53ab.c0274","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","statusVal":"","statusType":"auto","x":650,"y":340,"wires":[]},{"id":"84ccf978.599248","type":"http in","z":"e7ba53ab.c0274","name":"HTTP Request","url":"/hello","method":"get","upload":false,"swaggerDoc":"","x":370,"y":240,"wires":[["1b07cf68.beb8e1","667d2598.beb4ec"]]},{"id":"1b07cf68.beb8e1","type":"http response","z":"e7ba53ab.c0274","name":"","statusCode":"","headers":{},"x":660,"y":240,"wires":[]}]
+
+
+Call API:
+http://localhost:1880/hello?color=blue&weight=22
+
+Response:
+{"color":"blue","weight":"22"}
