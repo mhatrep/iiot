@@ -1,0 +1,2 @@
+-- SD Card
+https://superuser.com/questions/1374323/how-do-i-fix-my-sd-card-after-it-was-split-into-multiple-drives-by-windows-lot-c
