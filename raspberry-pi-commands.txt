@@ -13,8 +13,7 @@ network={
 
 sudo raspi-config
 sudo su
-
-
+sudo apt-get install build-essential
 
 GENERAL COMMANDS
 ----------------------------------------------------
