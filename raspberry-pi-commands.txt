@@ -15,6 +15,13 @@ sudo raspi-config
 sudo su
 sudo apt-get install build-essential
 
+Remove Unused Files
+-------------------
+sudo apt-get purge libreoffice wolfram-engine sonic-pi scratch
+sudo apt-get clean
+sudo apt-get autoremove
+
+
 GENERAL COMMANDS
 ----------------------------------------------------
 
