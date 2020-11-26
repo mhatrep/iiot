@@ -1,3 +1,16 @@
+/etc/wpa_supplicant/wpa_supplicant.conf
+----------------------------------------------------
+country=us
+update_config=1
+ctrl_interface=/var/run/wpa_suppilcant
+
+network={
+   scan_ssid=1
+   ssid="wifi-network"
+   psk="password"
+}
+----------------------------------------------------
+
 GENERAL COMMANDS
 ----------------------------------------------------
 
