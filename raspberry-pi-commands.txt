@@ -20,7 +20,7 @@ Remove Unused Files
 sudo apt-get purge libreoffice wolfram-engine sonic-pi scratch
 sudo apt-get clean
 sudo apt-get autoremove
-
+Use the command du -h | sort -nr | head -n 10 to find your 10 largest directories and go from there.
 
 GENERAL COMMANDS
 ----------------------------------------------------
