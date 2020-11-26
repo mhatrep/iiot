@@ -1,1 +1,5 @@
 https://www.hpe.com/us/en/solutions/edge.html
+
+https://www.ibm.com/cloud/blog/analytics-at-the-edge
+
+
