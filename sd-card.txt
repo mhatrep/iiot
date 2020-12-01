@@ -1,3 +1,8 @@
+diskmgmt.msc
+
+https://www.diskpart.com/delete-partition/delete-partition-on-sd-card.html
+----------------------------------------------
+
 Reference: https://www.diskpart.com/articles/how-to-remove-partition-on-micro-sd-card-0310.html
 
 Remove Micro SD card partition using Diskpart
