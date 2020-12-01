@@ -1,0 +1,15 @@
+Reference: https://www.diskpart.com/articles/how-to-remove-partition-on-micro-sd-card-0310.html
+
+Remove Micro SD card partition using Diskpart
+The first way I’ll introduce to you is to apply Diskpart, a Windows built-in tool, which is able to assistant you in extending, shrinking, deleting and creating partition etc. In order to use it to delete partition on SD card properly, you should connect the micro SD card to your computer at first and then follow the detailed steps listed below (Take removing partition in Windows 10 as an example):
+
+1. Press Windows + R at the same time, input “diskpart” and hit “Enter” key.
+
+2. In the Diskpart window, type the following commands in order and hit “Enter” after every command：
+
+▪ “list disk”
+▪ “select disk n”, where “n” is the number of the micro SD card
+▪ “list partition”
+▪ “select partition m”, where “m” is the number of the partition going to be deleted
+▪ "delete partition"
+
