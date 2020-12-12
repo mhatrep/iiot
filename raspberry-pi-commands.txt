@@ -1,3 +1,5 @@
+OS Supported - Multiple Linux Distro
+
 sudo apt-get update
 sudo apt-get upgrade
 
@@ -22,9 +24,6 @@ Troubleshoot wpa_supplicant issues
 sudo killall wpa_supplicant
 sudo wpa_supplicant -c/etc/wpa_supplicant/wpa_supplicant.conf -iwlan0 -d 
 (-d = verbose mode)
-
-
-
 
 
 sudo raspi-config
