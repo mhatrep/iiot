@@ -1,3 +1,5 @@
 Internet of Medical Things (IoMT)
 =================================
 An application of the IoT for medical and health related purposes, data collection and analysis for research, and monitoring.
+
+https://aabme.asme.org/posts/internet-of-medical-things-revolutionizing-healthcare
