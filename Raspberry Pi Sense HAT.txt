@@ -1,0 +1,12 @@
+The Raspberry Pi Sense HAT  (Hardware Attached on Top) is an add-on board for Raspberry Pi. 
+The Sense HAT is equipped with an 8×8 RGB LED matrix, a five-button joystick, and includes the following sensors:
+
+Gyroscope
+Accelerometer
+Magnetometer
+Temperature
+Barometric pressure
+Humidity
+This quickstart use
+
+https://docs.microsoft.com/en-us/dotnet/iot/quickstarts/sensehat
