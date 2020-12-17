@@ -43,3 +43,15 @@ while True:
     sense.clear((randrange(255), randrange(255), randrange(255)))
     time.sleep(1)
 ----------------------------------------------------------------
+# Single Color
+
+from sense_hat import SenseHat
+
+sense = SenseHat()
+
+r = 0
+g = 0
+b = 0
+
+sense.clear((r, g, b))
+----------------------------------------------------------------
