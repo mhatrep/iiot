@@ -21,3 +21,7 @@ https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu
 
 # IP Scanner
 https://angryip.org/
+
+
+# Open Source SCADA
+https://rapidscada.org/
