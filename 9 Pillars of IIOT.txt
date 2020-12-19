@@ -1,9 +1,22 @@
-Autonomous robots 
-Simulation 
-Horizontal and vertical system integration 
-The Industrial Internet of Things 
-Cybersecurity 
-The Cloud
-Additive manufacturing
-Augmented reality 
-Big data and analytics
+1 Autonomous robots 
+2 Simulation 
+3 Horizontal and vertical system integration 
+4 The Industrial Internet of Things 
+5 Cybersecurity 
+6 The Cloud
+7 Additive manufacturing
+8 Augmented reality 
+9 Big data and analytics
+
+----------------------------------------------------
+
+7 Parts of IIoT Platform
+------------------------
+
+1 Device Management
+2 Application Enablement & Management
+3 Digital Twins
+4 Integrations
+5 Security & Compliance
+6 Data Management
+7 Advanced Analytics
