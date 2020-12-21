@@ -106,3 +106,6 @@ vcgencmd get_mem arm && vcgencmd get_mem gpu: Shows the memory split between the
 Reference: https://www.circuitbasics.com/useful-raspberry-pi-commands/
 
 https://www.pibakery.org/download.html
+
+
+http://abyz.me.uk/rpi/pigpio/
