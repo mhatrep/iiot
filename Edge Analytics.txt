@@ -2,4 +2,6 @@ https://www.hpe.com/us/en/solutions/edge.html
 
 https://www.ibm.com/cloud/blog/analytics-at-the-edge
 
+https://medium.com/sciforce/can-edge-analytics-become-a-game-changer-9cc9395d2727
+
 
