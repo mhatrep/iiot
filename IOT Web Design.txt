@@ -1,1 +1,6 @@
 https://favicon.io/favicon-converter/
+
+https://www.streamlit.io/
+
+>> pip install streamlit
+>> streamlit hello
