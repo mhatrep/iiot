@@ -25,3 +25,7 @@ https://angryip.org/
 
 # Open Source SCADA
 https://rapidscada.org/
+
+https://iot.eclipse.org/
+https://platformio.org/
+https://www.devicehive.com/
