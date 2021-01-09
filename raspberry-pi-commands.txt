@@ -85,7 +85,7 @@ nmap: Scans your network and lists connected devices, port number, protocol, sta
 ping: Tests connectivity between two devices connected on a network. For example, ping 10.0.0.32 will send a packet to the device at IP 10.0.0.32 and wait for a response. It also works with website addresses.
 wget http://www.website.com/example.txt: Downloads the file example.txt from the web and saves it to the current directory.
 
-SYSTEM INFORMATION COMMANDS
+# SYSTEM INFORMATION COMMANDS
 ----------------------------------------------------
 
 cat /proc/meminfo: Shows details about your memory.
