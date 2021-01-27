@@ -1,1 +1,2 @@
+# Start Deep Learning Studio on Windows
 ./dlsctl start
