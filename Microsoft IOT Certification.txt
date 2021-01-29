@@ -1,1 +1,2 @@
 https://social.msdn.microsoft.com/forums/en-US/home?forum=WindowsIoT
+https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty
