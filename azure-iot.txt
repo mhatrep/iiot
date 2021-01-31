@@ -1,1 +1,12 @@
 https://azure.microsoft.com/en-us/overview/iot/
+
+npm install azure-iot-device@1.17.0
+npm install azure-iot-device-mqtt@1.15.0
+npm install azure-iot-provisioning-device-mqtt@1.7.4
+npm install azure-iot-security-symmetric-key@1.7.4
+npm install azure-maps-rest@2.0.5
+npm install chalk
+
+https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/
+https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty
+https://docs.microsoft.com/en-us/learn/paths/securely-connect-iot-devices/
