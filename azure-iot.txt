@@ -11,4 +11,5 @@ https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-iot/
 https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty
 https://docs.microsoft.com/en-us/learn/paths/securely-connect-iot-devices/
 https://docs.microsoft.com/en-us/azure/iot-hub/?WT.mc_id=Portal-Microsoft_Azure_IotHub
- https://www.azureiotsolutions.com/Accelerators#description/device-simulation
+https://www.azureiotsolutions.com/Accelerators#description/device-simulation
+https://github.com/Azure/azure-iot-explorer/releases
