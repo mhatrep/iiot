@@ -8,3 +8,6 @@ Add: az extension add --name azure-iot
 Update: az extension update --name azure-iot
 Remove: az extension remove --name azure-iot
 ----------------------------------------------
+az iot hub monitor-events --hub-name <PrashantMhatre> --device-id <PrashantMhatreDevice>
+----------------------------------------------
+
