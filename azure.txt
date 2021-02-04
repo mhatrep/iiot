@@ -1,1 +1,10 @@
 https://devicecatalog.azure.com/
+----------------------------------------------
+
+https://github.com/Azure/azure-iot-cli-extension
+
+Add, Update or Remove the IoT extension with the following commands:
+Add: az extension add --name azure-iot
+Update: az extension update --name azure-iot
+Remove: az extension remove --name azure-iot
+----------------------------------------------
