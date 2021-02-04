@@ -8,7 +8,10 @@ sudo apt-get upgrade
 
 Changing User Pi's Password from another account
 sudo passwd pi
-
+----------------------------------------------
+Fix Broken Dependencies
+pi@raspberrypi:~ $ sudo apt --fix-broken install -o Dpkg::Options::='--force-overwrite'
+----------------------------------------------
 
 /etc/wpa_supplicant/wpa_supplicant.conf
 ----------------------------------------------------
