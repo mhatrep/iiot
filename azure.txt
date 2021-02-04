@@ -11,3 +11,7 @@ Remove: az extension remove --name azure-iot
 az iot hub monitor-events --hub-name <PrashantMhatre> --device-id <PrashantMhatreDevice>
 ----------------------------------------------
 
+sudo pip3 install azure-iot-device  
+sudo pip3 install azure-iot-hub  
+sudo pip3 install azure-iothub-service-client  
+sudo pip3 install azure-iothub-device-client  
