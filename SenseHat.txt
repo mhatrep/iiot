@@ -1,0 +1,8 @@
+sudo apt-get install sense-hat
+
+# Use Emulator
+from sense_emu import SenseHat
+
+# Use SenseHat
+from sense_hat import SenseHat
+
