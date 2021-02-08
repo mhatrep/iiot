@@ -1,0 +1,12 @@
+mvn archetype:generate -DgroupId=com.prashant -DartifactId=hello-world-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+C:\Programs\apache-maven-3.2.2\conf\settings.xml
+Enable HTTPS
+
+<mirror>
+  <id>central-secure</id>
+  <url>https://repo.maven.apache.org/maven2</url>
+  <mirrorOf>central</mirrorOf>
+</mirror>
+
+
