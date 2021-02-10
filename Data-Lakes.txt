@@ -1,5 +1,6 @@
 # AWS
-
+https://aws.amazon.com/solutions/implementations/data-lake-solution/
+https://s3.amazonaws.com/solutions-reference/data-lake-solution/latest/data-lake-solution-on-aws.pdf
 
 # Azure
 
