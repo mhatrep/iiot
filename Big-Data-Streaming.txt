@@ -1,2 +1,3 @@
 https://thenewstack.io/apache-streaming-projects-exploratory-guide/
 https://www.cmswire.com/big-data/big-datas-hidden-scourge-data-drift/
+https://databricks.com/session_na20/deep-dive-into-the-new-features-of-apache-spark-3-0
