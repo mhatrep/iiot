@@ -1,1 +1,2 @@
 https://thenewstack.io/apache-streaming-projects-exploratory-guide/
+https://www.cmswire.com/big-data/big-datas-hidden-scourge-data-drift/
