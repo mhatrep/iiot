@@ -4,3 +4,4 @@ Shortcuts
 Shift+Enter to run a cell
 Ctrl+Enter keeps running the same cell without moving to the next cell
 
+View -> L - Show Lines.
