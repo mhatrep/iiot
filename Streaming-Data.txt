@@ -1,0 +1,9 @@
+Data Streams:
+------------
+ATM Machine
+Gaming
+Clickstream
+Stock Market
+IOT Devices
+Healthcare Prescription
+Application Logs
