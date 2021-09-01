@@ -1,2 +1,6 @@
- aws kinesis list-streams
+aws kinesis list-streams
  
+aws kinesis create-stream --stream-name mhatrep-kinesis --shard-count 1
+
+aws kinesis describe-stream --stream-name mhatrep-kinesis
+
