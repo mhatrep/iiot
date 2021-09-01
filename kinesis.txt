@@ -42,3 +42,9 @@ total 56
 -rw-r--r-- 1 root root  9340 Sep  1 04:22 SampleConsumer.java
 -rw-r--r-- 1 root root  8564 Sep  1 04:22 MetricsAwareSampleProducer.java
 
+$ sudo vi SampleProducerConfig.java
+Update stream name and region
+
+$ cd /home/ec2-user/kpl-local/java/amazon-kinesis-producer-sample
+$ sudo mvn clean package
+
