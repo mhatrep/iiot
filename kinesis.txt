@@ -48,3 +48,10 @@ Update stream name and region
 $ cd /home/ec2-user/kpl-local/java/amazon-kinesis-producer-sample
 $ sudo mvn clean package
 
+$ aws kinesis create-stream --stream-name kinesis-kpl --shard-count 2
+$ aws kinesis list-streams
+{
+    "StreamNames": [
+        "kinesis-kpl"
+    ]
+}
