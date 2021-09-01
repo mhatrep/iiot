@@ -25,3 +25,20 @@ sudo wget http://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-mav
 
 sudo sed -i s/\$releasever/6/g /etc/yum.repos.d/epel-apache-maven.repo
 sudo yum install apache-maven
+
+# Install Git
+sudo yum install git
+
+sudo git clone https://github.com/awslabs/amazon-kinesis-producer kpl-local
+cd /home/ec2-user/kpl-local/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample
+
+$ pwd
+/home/ec2-user/kpl-local/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample
+$ ls -ltr
+total 56
+-rw-r--r-- 1 root root  2101 Sep  1 04:22 Utils.java
+-rw-r--r-- 1 root root 10642 Sep  1 04:22 SampleProducer.java
+-rw-r--r-- 1 root root 12926 Sep  1 04:22 SampleProducerConfig.java
+-rw-r--r-- 1 root root  9340 Sep  1 04:22 SampleConsumer.java
+-rw-r--r-- 1 root root  8564 Sep  1 04:22 MetricsAwareSampleProducer.java
+
