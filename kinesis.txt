@@ -7,3 +7,15 @@ aws kinesis describe-stream --stream-name mhatrep-kinesis
 aws kinesis put-record --stream-name mhatrep-kinesis --partition-key 382085 --data HelloPrashant
 aws kinesis put-record --stream-name mhatrep-kinesis --partition-key 382085 --data ByePrashantMhatre
 aws kinesis get-shard-iterator --shard-id shardId-000000000000  --stream-name mhatrep-kinesis --shard-iterator-type TRIM_HORIZON
+
+
+aws kinesis get-records --shard-iterator < ....==>
+aws kinesis delete-stream --stream-name mhatrep-kinesis
+
+
+# Producer
+sudo yum install java-1.8.0-openjdk-devel
+sudo /usr/sbin/alternatives --config java
+sudo /usr/sbin/alternatives --config javac
+
+
