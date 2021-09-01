@@ -4,3 +4,6 @@ aws kinesis create-stream --stream-name mhatrep-kinesis --shard-count 1
 
 aws kinesis describe-stream --stream-name mhatrep-kinesis
 
+aws kinesis put-record --stream-name mhatrep-kinesis --partition-key 382085 --data HelloPrashant
+aws kinesis put-record --stream-name mhatrep-kinesis --partition-key 382085 --data ByePrashantMhatre
+aws kinesis get-shard-iterator --shard-id shardId-000000000000  --stream-name mhatrep-kinesis --shard-iterator-type TRIM_HORIZON
