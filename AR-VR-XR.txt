@@ -18,3 +18,23 @@ AR/VR hardware (e.g. MS HoloLens 2, Oculus Quest 2, HTC VIVE, Magic Leap One, Nr
 
 Software algorithms (e.g. point cloud/LiDAR rendering, inverse kinematics, video streaming, AI expert system)
 2D/3D/tracking cameras, haptic gloves/pens
+
+
+Unity, Unreal or other game engine platforms with C#/C++ programming
+MS HoloLens 2, Oculus Quest 2, HTC VIVE, Magic Leap One, Nreal Light headsets and smart glasses
+MRTK, Unity XR platform and other AR/VR/game development toolkits
+Intel RealSense, StereoLab ZED2, MS Kinect Azure, LiDAR cameras
+Point cloud, inverse kinematics, Vuforia calibration
+
+
+AR & VR, IoT, computer vision, ML, and NLP. 
+
+creating experiences in real-time engines, such as Unity3D or Unreal (e.g. games, interactive applications, etc.)
+Scripting  Python, Javascript, React, MEL, C#, and C++
+Spark AR Studio https://sparkar.facebook.com/ar-studio/download/
+3D software Cinema4D or Maya
+Photoshop and After Effects
+Shaders
+VR/AR products
+AAA game titles
+Experience in mobile development and/or browser based games, with an emphasis on multiplayer games
