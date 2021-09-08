@@ -7,3 +7,14 @@ Vuforia
 Microsoft MRTK
 Magicleap Lumin SDK
 Oculus SDK
+
+
+
+Unity, Unreal,  Visual studio, Python, Matlab, and OpenCV.
+https://www.vxl.net/
+AR/VR/MR/Unity/MRTK 
+
+AR/VR hardware (e.g. MS HoloLens 2, Oculus Quest 2, HTC VIVE, Magic Leap One, Nreal Light
+
+Software algorithms (e.g. point cloud/LiDAR rendering, inverse kinematics, video streaming, AI expert system)
+2D/3D/tracking cameras, haptic gloves/pens
