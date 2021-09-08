@@ -8,6 +8,8 @@ Microsoft MRTK
 Magicleap Lumin SDK
 Oculus SDK
 
+glTF (GL Transmission Format) 
+Unity, Unreal, Three.js
 
 
 Unity, Unreal,  Visual studio, Python, Matlab, and OpenCV.
@@ -38,3 +40,14 @@ Shaders
 VR/AR products
 AAA game titles
 Experience in mobile development and/or browser based games, with an emphasis on multiplayer games
+
+
+3D, CAD, and Rigid-body physics.
+Metal/OpenGL/Vulkan or other 3D graphics development frameworks.
+AR/MR libraries such as ARFoundation, MRTK ARKit, Vuforia, and ARCore.
+Unreal, Blender, and Maya.
+
+mathematics and/or physics
+Visual shaders and compute shaders (GPGPU).
+Cloud engineering (e.g. networking and container orchestration)
+Wikitude https://www.wikitude.com/
