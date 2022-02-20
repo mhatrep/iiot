@@ -2,12 +2,11 @@
 2 Simulation 
 3 Horizontal and vertical system integration 
 4 The Industrial Internet of Things 
-5 Cybersecurity 
+5 Cybersecurity --
 6 The Cloud
-7 Additive manufacturing
+7 Additive manufacturing - 3D Printing
 8 Augmented reality 
 9 Big data and analytics
-
 # ----------------------------------------------------
 
 7 Parts of IIoT Platform
